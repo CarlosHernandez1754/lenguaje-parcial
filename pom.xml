@@ -8,7 +8,7 @@
 		<version>3.3.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.garajeideas.login</groupId>
+	<groupId>com.carlosh.login</groupId>
 	<artifactId>jpaLogin</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jpaLogin</name>
